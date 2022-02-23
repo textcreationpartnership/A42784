@@ -1,0 +1,925 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rector of Bury's reply to the minister at Oswestry's answer; in a second letter to his friend</title>
+            <author>Gipps, Thomas, d. 1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42784</idno>
+            <idno type="STC">Wing G779B</idno>
+            <idno type="STC">ESTC R213346</idno>
+            <idno type="EEBO-CITATION">99825761</idno>
+            <idno type="PROQUEST">99825761</idno>
+            <idno type="VID">30148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30148)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1793:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rector of Bury's reply to the minister at Oswestry's answer; in a second letter to his friend</title>
+                  <author>Gipps, Thomas, d. 1709.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Gipps.</note>
+                  <note>Caption title; imprint from Wing.</note>
+                  <note>A reply to Owen, James.  A further vindication of the dissenters from the Rector of Bury's unjust accusations.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Owen, James, 1654-1706 --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:30148:1"/>
+            <pb n="1" facs="tcp:30148:1"/>
+            <head>THE
+Rector of Bury's Reply
+TO THE
+Miniſter at Oſweſtry's Anſwer;
+In a Second Letter to his Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Was in hopes my former Letter might have Charm'd
+the good Man, and laid that evil Spirit which Tor<g ref="char:EOLhyphen"/>ments
+him. But I am miſtaken: Mr. <hi>O.</hi> is no Change<g ref="char:EOLhyphen"/>ling,
+he chuſeth ſtill to Scrible for the <hi>Diverſion</hi> rather
+than the <hi>Edification</hi> of his Reader, as himſelf I am told has
+confeſs'd, and which is manifeſt in the <hi>Anſwer.</hi> It is leſs to
+be wonder'd at, ſeeing this Itch of Writing ſcurrilouſly
+ſeems to run in the Blood, as you rightly obſerv'd from
+<hi>Eugenius</hi> his late Pamphlet. With much ado he has pickt
+up Four Inſtances out of my <hi>Letter,</hi> and by the help of
+miſrepreſentation, would Skreen himſelf from the Cenſure
+of Wiſe Men, as if he had only beaten the Rector at his
+own Weapon. Much good may his Victory do him. I am
+not, I own, skill'd in that Noble Science of Fencing with
+an Adverſary, and inſtead of Anſwering his Arguments,
+abuſing him with Contemptuous Language.</p>
+            <p>He informs you,<note n="*" place="margin">Title Page.</note> 
+               <hi>The Rector has effectually ac<g ref="char:EOLhyphen"/>quitted
+the Diſſenters,</hi> &amp;c. And this I'll warrant you muſt
+paſs for Truth, without looking into the <hi>Letter</hi> or the <hi>Anſwer.</hi>
+Oh, ſay the Mob, its a plain caſe, our Oracle has ſaid it, the
+Rector is baffl'd even by his own Confeſſion; whilſt the
+more underſtanding ſort droop, hang the Head, and are
+<pb n="2" facs="tcp:30148:2"/>
+aſham'd of their Advocate. But how doth he prove this?
+Why, he ſums up the cauſe, (you may be ſure partially
+enough) he tells, what feats he has done, what Havock he
+has made in the Rector's Squadrons <hi>(i. e.</hi> Arguments,)
+the moſt part whereof he has diſmounted, trampl'd under
+foot, left ſprawling on the ground, and weltring in their
+Bloud, whilſt the reſt being put into diſorder were forc'd
+to fly and retire with Precipitation; the unhappy General
+mean while being unable to rally or recruit his broken
+Forces.</p>
+            <p>Now the pretence for all this boaſting is, The Rector not
+diſtruſting the Judgment of the Intelligent Reader, would
+not trouble him with impertinent Repetitions: But left his
+Squadrons in the Field firm, and in good order, as they
+were, and (he believ'd) able to make good their Ground
+againſt all Oppoſition. There was then no neceſſity of en<g ref="char:EOLhyphen"/>creaſing
+his Troops, which had ſuſtain'd no conſiderable
+loſs, that he knows of, nor is he yet ſenſible there is need
+of any new Levies. By this time the Metaphor is ſuffi<g ref="char:EOLhyphen"/>ciently
+ſqueez'd.</p>
+            <p>
+               <hi>The Titles are left out of the Liturgy Pſalms, becauſe intended
+to be Sung.</hi> This in good time is agreed upon as a juſt De<g ref="char:EOLhyphen"/>fence
+of the Church of <hi>England.</hi> But Mr. <hi>O.</hi> will needs
+have the Honour of firſt ſtarting it.<note place="margin">
+                  <hi>Anſw.</hi> p. 14.</note> 'Tis not
+worth while to ask why Mr. <hi>Delaune</hi>'s Vindica<g ref="char:EOLhyphen"/>tor
+ſhould deſert and turn on the Church of <hi>England</hi>'s ſide.
+This is no good ſign of Victory. Nor is it <hi>tanti,</hi> which of
+us can lay the beſt claim to the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſuch as it is. But be<g ref="char:EOLhyphen"/>cauſe
+they ſay, there is as much right in a Penny as in a
+Pound, I'll not loſe it for lack of demanding. See then <hi>Rs.
+Rs.</hi> p. 15. l. 34. which were written before Mr. <hi>O</hi>'s <hi>Vindi<g ref="char:EOLhyphen"/>cation.</hi>
+So that <hi>Mr.</hi> Miniſter is <hi>beholden</hi> to <hi>Mr.</hi> Rector for
+that <hi>Plea,</hi> if a trifling Truth may be ſpoken. <hi>Hos ego ver<g ref="char:EOLhyphen"/>ſiculos
+feci, tulit alter Honorem.</hi>
+            </p>
+            <p>I pretend not to a Preſident in Antiquity, or a Rubrick
+<pb n="3" facs="tcp:30148:2"/>
+in our Church for repeating the <hi>Pſalms</hi> alternately<note n="*" place="margin">Yet ſee Ru<g ref="char:EOLhyphen"/>bricks before Hymns of 5th <hi>Nov. 30 Jan. 29 May,</hi> and Fire of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+               </note>.
+But I reckon Cuſtom a good warrant for it, which
+as 'tis eſteem'd a ſecond Nature in one caſe, ſo in ano<g ref="char:EOLhyphen"/>ther
+is to be accounted a ſecond ſort of Command<note n="†" place="margin">1 Cor. 11. 16.</note>.
+We cannot tranſgreſs it without being Schiſmaticks.
+<hi>Saying</hi> the <hi>Pſalms</hi> is a kind of Singing them, being di<g ref="char:EOLhyphen"/>ſtinguiſh'd
+from reading them by way of Inſtruction: For they
+are appointed, as part of our Devotion, which the Cuſtom of
+our Church has determin'd unto alternate ſaying. We have
+no other Order for Singing the <hi>Pſalms</hi> in Meter, but Cuſtom.</p>
+            <p>That Women may ſpeak in the Church is doubtleſs true,
+<hi>1 Cor.</hi> 11. 5. where by <hi>Propheſying</hi> I underſtand
+<hi>Singing.</hi>
+               <note place="margin">1 Chron. 25, 1, 2, 3, 6, 7.</note> St. <hi>Paul</hi> indeed forbids them to ſpeak
+in the Church, <hi>1 Cor.</hi> 14. 34, 35. but explains
+himſelf, <hi>1 Tim.</hi> 2. 12. That they are not to Teach, or Speak
+Authoritatively: However they may ſpeak in Prayer and
+Praiſe. Is it not lawful for 'em to ſay <hi>Amen?</hi> Do not the
+Diſſenters allow them to Sing? In a word, when prejudices
+are laid aſide, <hi>Noiſe and Confuſion</hi> may be objected againſt
+<hi>Singing</hi> as reaſonably, as againſt <hi>ſaying</hi> the <hi>Pſalms alternatìm.</hi>
+The Quakers will deride the Diſſenters Singing <hi>David</hi>'s <hi>Pſalms,</hi>
+and call it <hi>Gibble Gabble,</hi> or <hi>bouncing and racketing</hi> them (in
+<hi>Eugenius</hi> his Language) with as much Reaſon and Juſtice, as
+the Diſſenters can our ſaying them alternately.</p>
+            <p>I will be better than my word, and let Mr. <hi>O.</hi> ſee, I am able
+to recruit my Squadrons, though he has not ſhatter'd or dimi<g ref="char:EOLhyphen"/>niſh'd
+them: that the Titles of the <hi>Pſalms</hi> are not Eſſential
+Parts of them, ſeems to be the Opinion of Mr. <hi>Allix,</hi>
+who Writes,<note place="margin">Judgment of the Jewiſh Church, <hi>&amp;c. p.</hi> 20.</note> 
+               <q>It is by the help of Tradition, that
+the Ancient Interpreters have added to the <hi>Pſalms</hi>
+ſuch Titles, as expreſs their Deſign and their U<g ref="char:EOLhyphen"/>ſage
+in the Synagogue.</q> One might hope to find
+ſhelter under the Wings of this Learned Perſon, at leaſt to be ac<g ref="char:EOLhyphen"/>quitted
+of Blaſphemy, if not of all Error or miſtake.</p>
+            <p>I refus'd the Arbitration of <hi>Jerom,</hi> for Reaſons, which were
+not to the Honour of that Father. On th' other Hand, Mr. <hi>O.</hi>
+has adorn'd him with wonderful Encomiums in general. But
+<pb n="4" facs="tcp:30148:3"/>
+               <hi>quid verba audio, cum facta video.</hi> If all were true, his particu<g ref="char:EOLhyphen"/>lar
+Faults are not covered thereby. The Rector was forc'd to
+Treat him in that manner to ſatisfy the Reader why he declin'd
+<hi>his</hi> Judgment, who was too Sceptical in the point to be re<g ref="char:EOLhyphen"/>garded.
+But Mr. <hi>Br.</hi> without neceſſity let fly, and at once
+mauld and put to the Sword the whole Squadron of the Primi<g ref="char:EOLhyphen"/>tives.
+<note place="margin">
+                  <hi>B.</hi> 4th p. 1025.</note> Nor do I want a very good Preſident for what
+I did, the Famous Mr. <hi>Mede</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <q>St. <hi>Jerom</hi> (ſaith
+he) is a Man of no Faith with me, when he deſcribes the
+Opinion of his Adverſary, which he would ſet forth as odiouſly
+as poſſibly could be. He was a Man that car'd not what he
+ſaid,<note place="margin">Id. B. 3. p. 748.</note> ſo it might diſparage his Adverſaries, as in
+the caſe of <hi>Vigilantius,</hi> and <hi>Jovinian; Again,</hi> St.
+<hi>Jerom</hi> was a moſt unequal Relator of the Opinion of his Ad<g ref="char:EOLhyphen"/>verſary.
+What Credit he may deſerve in this may appear in
+ſome fragments of thoſe Authors ſtill remaining, whom he
+charg'd with an Opinion directly contrary to that which they
+expreſly affirm'd. And yet when he had ſtated it ſo, as it
+muſt needs be Hereſy and Blaſphemy whoſoever held it, he
+is found to ſay he durſt not damn it, becauſe <hi>Multi virorum
+Eccleſiaſticorum &amp; Martyrum iſta dixerunt.</hi>
+               </q>
+            </p>
+            <p>Sic oculos, ſic ille manus, ſic or a—: <hi>unriddle me this,</hi> &amp; Phyl<g ref="char:EOLhyphen"/>lida
+ſolus habeto.</p>
+            <p>That all Ancient verſions of Scripture and the Fathers are
+uſeful to find the true Reading of Scripture will eaſily be gran<g ref="char:EOLhyphen"/>ted,
+if you call to Mind what account we all make of the Poly<g ref="char:EOLhyphen"/>glot
+Bibles and Primitive Writers. That a Verſion of leſs
+Credit in general may in ſome particulars be truer than even
+the LXX. or the Hebrew ſeems to be the Opinion
+of Mr. <hi>Mede.</hi>
+               <note place="margin">B. 5. p. 1095, 1096.</note> He obſerv'd, that in both the Chro<g ref="char:EOLhyphen"/>nology
+of <hi>Gen. 11. 26, 32. ch.</hi> 12. 4. compar'd
+with <hi>Lu.</hi> 7. 4. was miſtaken, and Corrected it by the <hi>Samari<g ref="char:EOLhyphen"/>tan
+Pentateuch.</hi> Now though for my own part I believe the
+Hebrew and LXX are not here faulty for Reaſons not pro<g ref="char:EOLhyphen"/>per
+to be adduc'd in this place, yet this ſhews what that good
+Man's Sentiments were in the Caſe. Of the ſame mind is the
+<pb n="5" facs="tcp:30148:3"/>
+Learned <hi>Dupin.</hi> 
+               <q>'Tis not abſolutely neceſſary
+(ſaith he) that we ſhould always follow the <hi>Sa<g ref="char:EOLhyphen"/>maritan
+Pentateuch (which he aſſerts to be an Origi<g ref="char:EOLhyphen"/>nal
+and Authentick)</hi> nor are we always oblig'd to
+follow the Hebrew Text.</q>
+               <note place="margin">Compleat Hiſt. of the <hi>O.</hi> and <hi>N.</hi> Teſtam. Part 1. p. 168.</note>
+            </p>
+            <p>But Mr. <hi>O.</hi> is angry, that (as the Papiſts ſend us to the Fa<g ref="char:EOLhyphen"/>thers
+for the ſenſe of Scripture ſo) the Rector carries us to them
+for the Scripture it ſelf. Bleſs me, thought I when I read this,
+whither will vain Glory and thirſt after Victory drive a Man,
+and into what Abſurdities betray him? This <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+is very fatal. Becauſe, forſooth, we ought not without fear
+or wit depend on the Fathers <hi>only</hi> for the ſenſe of Scripture,
+neither are we beholden to them for the Scripture it ſelf.
+Whence (I beſeech you) had we the Scripture, but from our
+Predeceſſors in the Faith? The Holy Fathers Principally,
+whoſe Writings are ſo many everlaſting Monuments upon Re<g ref="char:EOLhyphen"/>cord
+of their Divine Authority from whom we know, what
+Books were and what were not written by Inſpiration.
+Whence did we derive this knowledge but from them? It was
+not brought us by an Angel from Heaven: We have it not by
+Inſpiration, or from an inſpir'd Prophet: It dropt not out of
+the Clouds, neither were we born with an innate Idea, or No<g ref="char:EOLhyphen"/>tion
+of the Divine Scriptures, which are and which are not ſuch.</p>
+            <p>If the examples already produced do not prove Corruptions
+in the Hebrew Text (I am ſure as zealous ſticklers for the
+Hebrew verity as Mr. <hi>O.</hi> can be,<note place="margin">Mede b. 4. p. 961, 990, b. 3. 707, 708. 709. b. 5. 1094.</note> have confeſſed it)
+I ſend you then to the Margin for more. In one
+of theſe places our Author Writes to A. B. <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi>
+thus, <q>I durſt ſhew no ſuch Conceits as theſe,
+but to ſo great an Antiquary, to whom the poſſibility of
+Corruption by Writing is ſo well known, or rather the im<g ref="char:EOLhyphen"/>poſſibility
+to the contrary. How can it be prov'd, that
+the Church of the Jews had a greater Privilege than
+we, eſpecially ſince Propheſy ceaſed among them? The
+Maſorethical method was deviſed ſince Chriſt and applied to
+one Copy only, the beſt, written by <hi>Hillel:</hi> Suppoſing this,
+yet other Copies might in ſome things be righter than <hi>Hill<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s.</hi>
+               </q>
+               <pb n="6" facs="tcp:30148:4"/>
+He argues elſe where, the Hebrew is moſt liable to Corrupti<g ref="char:EOLhyphen"/>on;
+the Letters differing ſo very little are eaſily miſtaken one for
+another. There is no ſecurity againſt Corruption, unleſs the
+Tranſcribers were inſpir'd: But whether for theſe Nineteen
+Hundred Years paſt any one Copier has been inſpir'd, who he was,
+and which is the Copy,<note place="margin">
+                  <hi>Ib.</hi> p. 961.</note> and where to be ſeen tell, me,
+<hi>&amp; eris mihi magnus Apollo.</hi>
+            </p>
+            <p>
+               <hi>If any Corruption</hi> ('tis pleaded) <hi>had crept into the Text, the Pen
+Men of the</hi> N. T. <hi>would have Corrected it. And what if they did?
+But we had rather follow the</hi> Maſorites, ſaith Mr. <hi>M.</hi> He after<g ref="char:EOLhyphen"/>wards
+obſerves ſeveral ſuch Emendations, which you may
+examine at leiſure. Is it not then equally probable, that St. <hi>Paul</hi>
+in his Epiſtle to the <hi>Romans,</hi> reſtor'd the 13, 14, 15, 16, 17,
+and 18. Verſes, to the 14th <hi>Pſalm?</hi> But we dote on the <hi>Maſo<g ref="char:EOLhyphen"/>rites,</hi>
+and had rather ſtoop to the <hi>Rabbins</hi> than to the Apoſtle.</p>
+            <p>St. <hi>Juſtin</hi> underſtood the Hebrew, ſo I argu'd from his be<g ref="char:EOLhyphen"/>ing
+a Native of <hi>Flavia,</hi>
+               <note place="margin">Apol. 2. in init.</note> a City in <hi>Paleſtine.</hi> This
+Squadron Mr. <hi>O.</hi> meddles not with: It keeps the Field ſtill as I
+might ſay peacebly. But (ſaith he) the Martyr has miſtaken
+the Etymology of <hi>Iſrael:</hi> For it is deriv'd from <hi>Sarah; Iſh</hi> (not
+<hi>Is)</hi> ſignifies <hi>vir,</hi> and therefore he will not allow <hi>Juſtin</hi> to have
+been skill'd in Hebrew. <hi>A.</hi>
+            </p>
+            <p>1. Criticks take a great deal of Liberty in Etymologies, they
+are like Hereticks in Religion, often broaching new Conceits,
+which though not always exactly true are not to be aſcrib'd
+unto their Ignorance, but ſingularity and a certain Delight
+they take <hi>ludere Campo Philologiae,</hi> and to ſtart Paradoxes in that
+kind of Learning, ſuiting their Etymologies to the Argument
+before them. The Martyr doubtleſs had his Eye upon <hi>Gen.
+32.</hi> 24. where the Perſon that Wreſtled with <hi>Jacob</hi> is call'd
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>vir</hi> from whence he fancy'd <hi>Iſrael</hi> was deriv'd. For
+the Eternal <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here appearing in the ſhape of a Man, and
+being therefore <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> gave unto <hi>Jacob</hi> his own Name (as
+I ſhall ſhew) a name ſuitable to his own Nature, and Typical
+of it. <hi>Juſtin</hi>'s Criticiſm therefore is not contemptible, nor is he
+to be thought a dunce in the Hebrew on this ſcore. But you'll
+ask perhaps, why then did not <hi>Juſtin</hi> write <hi>Iſh?</hi> And how comes
+it to paſs that we write it <hi>not Iſhrael,</hi> but <hi>Iſrael? A.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:30148:4"/>
+2. As for <hi>Juſtin</hi> you muſt note the Greeks have no ſuch
+Letter as <hi>ſh</hi> which therefore they always turn into a ſimple
+<hi>s,</hi> as may be ſeen in the LXX. and Greek Teſtament: <hi>Ex.
+Gr. Shimeon</hi> in the Hebrew, <hi>Gen.</hi> 29. 33. is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the LXX.
+and in <hi>Lu.</hi> 2. 25. and <hi>Shem, Gen.</hi> 5. 33. is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the LXX. and in
+<hi>Lu.</hi> 3. 36. So that we need not wonder <hi>Juſtin</hi> Martyr Writes <hi>Is</hi>
+for <hi>vir,</hi> tho' the Hebrew writes it <hi>Iſh.</hi> And as for us in Engliſh,
+we very frequently turn <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> into <hi>Sin,</hi> as if there were no difference
+between the two Letters. We Write <hi>Simeon, Iſaiah, Samuel,
+Abſolom, Ahaſuerus,</hi> and others, with a <hi>Sin</hi> in ſtead of the <hi>Shin,</hi>
+from whence I infer that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was Originally but one Letter, tho'
+afterwards made two, and deſtinguiſh'd by a point on the right
+Shoulder of <hi>Shin,</hi> and on the left of <hi>Sin. Buxtorf</hi> thinks that
+<hi>Shin</hi> was the only Ancient Letter of the Hebrew Alphabet, <hi>Sin</hi>
+being brought into the Room of <hi>Samech,</hi> haply after <hi>Juſtin</hi>'s
+time. If ſo then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the ſame Letter in <hi>Iſrael</hi> and in <hi>Iſh.</hi> Note
+again, that the Ephraimites, <hi>Jud.</hi> 12. 6. could not pronounce
+<hi>Shin,</hi> but ſaid <hi>Sibboleth</hi> inſtead of <hi>Shibboleth:</hi> Queſtionleſs then
+they ſaid <hi>Is</hi> alſo and not <hi>Iſh,</hi> and ſo with them there was no ſuch
+Letter as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> nor any uſe of it: 'Tis probable it might be thus a<g ref="char:EOLhyphen"/>bout
+<hi>Flavia,</hi> which haply occaſion'd <hi>Juſtin</hi>'s Etymology. In
+this variety and uncertainty about the Letter <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 'tis hard <hi>Juſtin</hi>
+ſhould be taxt for want of skill in the Hebrew Tongue, tho'
+he took the Liberty of Starting an uncommon Etymology:
+But eſpecially conſidering it was offer'd in confirmation of the
+human Nature of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <hi>Trypho</hi> the Jew had nothing to
+object againſt it, one would be apt to believe it was the true
+one. But,</p>
+            <p>3. Upon a review of that Paſſage in <hi>Juſtin</hi> Martyr, 'tis very
+probable the Father hit upon the true Etymology of <hi>Iſrael,</hi> which
+he tells us ſignifies <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Iſ-ra-el</hi> by Contraction. 'Tis true preſently after he renders
+<hi>Iſra</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> leaving out <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but it may well be imagin'd a
+defect or fault of the <hi>M. S.</hi> ſeeing he had before obſerv'd, that
+<hi>Iſrael</hi> ſignifyed a <hi>Man overcoming God.</hi> At leaſt (I hope) <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t
+will not be deny'd but that there is a great deal of ingenuity in
+<hi>Juſtin</hi>'s Criticiſms, and that 'tis likely enough he underſtood
+the Hebrew Language.</p>
+            <p>
+               <pb n="8" facs="tcp:30148:5"/>
+4. Granting <hi>Juſtin</hi> has given us a wrong Etymology of <hi>Iſrael,</hi>
+it will not follow he underſtood not Hebrew. One might by
+the ſame Reaſon affirm Mr. <hi>O.</hi> underſtands neither Greek nor
+Latin, nor yet Engliſh, but Welſh only, becauſe he has mi<g ref="char:EOLhyphen"/>ſtaken
+himſelf ſometime or other in all thoſe Languages. But
+this is manifeſt, the Martyr frequently quotes the Hebrew as
+well as the LXX. where there was a different Reading, <hi>Dial. p.
+360.</hi> and gives us the Reaſon of it, <hi>viz. That his Reaſoning
+thence might not be ſet at naught by the Jews,</hi> that various Reading
+being not concerned in his preſent Argument with <hi>Trypho.</hi> By
+the way then I infer hence, as very probable, that <hi>Juſtin</hi> us'd the
+ſame Care and precaution, when he Challeng'd the Jews with
+corrupting the Scriptures, that is, had his Eye upon both Texts.</p>
+            <p>But I am ſurpriz'd that Mr. <hi>O.</hi> ſhould aſſert, that in the
+Word <hi>Iſrael, by</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>El Juſtin means no other God, but the
+God of this World the Devil, which the blund'ring Rector</hi> (elſe<g ref="char:EOLhyphen"/>where
+call'd blind <hi>Bayard) makes to ſignify the true God.</hi> Is the
+Man poſſeſt? What? The true God gave the name of the Devil
+unto the Holy Patriarch, and that becauſe he Wreſtl'd with the
+true God and prevail'd? It could never enter into any
+good Man's Noddle that the Divine <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Bleſſed Jacob</hi>
+with the Devil's name, I will at Adventures affirm the Martyr
+never thought nor ſaid ſo. A little after indeed he uſeth <hi>El</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for the <hi>Devil,</hi> whom he deſcribes for diſtinction ſake, <hi>the
+Serpent and Satan,</hi> but not with reference unto <hi>Iſrael.</hi>
+In ſhort,<note place="margin">Juſt. Dial. p. 355. E. P.</note> he hath by good luck clear'd himſelf, in
+this matter thus, <hi>Iſrael was his name from above</hi>
+(<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from Heaven) <hi>by which Chriſt call'd Jacob Bleſſing him
+with his own name,</hi> but not with the Devil's ſurely.</p>
+            <p>I am ſtill of the mind, that with <hi>Jerom</hi> and in his time the
+Hebrew read <hi>Deut.</hi> 32. 8. as the LXX. doth at this day. All
+Nations but <hi>Iſrael</hi> were ſubjected to the Angels, and govern'd
+by them as the Learned believe, which Dr. <hi>Scot</hi>
+has well explain'd and confirm'd.<note place="margin">
+                  <hi>Chriſtian Life</hi> Par. 2. p. 935. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> He farther
+ſhews how probably <hi>Angels</hi> in that Text was chang'd
+into <hi>Children of Iſrael.</hi> Originally it ran thus <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Sons of God,</hi> q. d. <hi>Angels,</hi> but the Tranſcribers ſuſpecting <hi>Iſra</hi>
+               <pb n="9" facs="tcp:30148:5" rendition="simple:additions"/>
+to be left out reſtor'd it, and ſo it became <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> q. d.
+<hi>Children of Iſrael.</hi> Setting this aſide, <hi>Jerom</hi> holding the Do<g ref="char:EOLhyphen"/>ctrine
+of Angelocracy confirm'd from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Deut.</hi> 32. 8. according to
+the LXX. ſaith Mr. <hi>O.</hi> But this he would never have done contra<g ref="char:EOLhyphen"/>ry
+to the Hebrew verity, preferring the LXX. to it. His good
+Friends and Allies the Jews, would con him no thanks for this,
+as I gueſs.</p>
+            <p>There is a perfect Agreement (Mr. <hi>O.</hi> avers it) between the
+Hebrews and the LXX. in <hi>1 Sam.</hi> 17. he knows it to be ſo,
+he has <hi>conſulted</hi> the Chapter, and you may depend upon it.
+But blind <hi>Bayard</hi>'s Eyes once more deceive him, or Mr. <hi>O.</hi> is
+taken in the manner once more. What will not ſome Men ſay
+to ſave their Bacon? Twenty Four Verſes of that 17th Chap<g ref="char:EOLhyphen"/>ter
+in the <hi>Hebrew</hi> are miſſing in the LXX. a<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that there is a
+perfect Agreement between them. Mr. <hi>O.</hi> might as well
+acquaint the World that he and I are agreed <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Beſides, let
+him compare the 16, 17, and 18th Chapters, as I deſir'd him,
+and then tell me, if the LXX. have not given us a ſtraight
+and intelligible Narrative of <hi>David</hi>'s Action, whilſt in the He<g ref="char:EOLhyphen"/>brew
+the courſe of the ſtory is intolerably broken, perplext and
+tranſpos'd without remedy. Mr. <hi>O.</hi> ſees nothing of this, al<g ref="char:EOLhyphen"/>though
+I know a Child of twelve Years Old, who t'other day
+diſcerning the diſorder, ask'd whether there were
+two <hi>Davids,</hi> one <hi>Saul</hi>'s Armour bearer<note n="*" place="margin">Chap. 16.</note>, the o<g ref="char:EOLhyphen"/>ther
+that ſlew <hi>Goliah</hi>
+               <note n="†" place="margin">Chap. 17.</note>, becauſe <hi>Saul</hi> knew him
+not, <hi>v.</hi> 55.</p>
+            <p>I am content Mr. <hi>O.</hi> ſhould have the Liberty of explain<g ref="char:EOLhyphen"/>ing
+himſelf, when he ſaith, <hi>The not reading the Titles of the</hi>
+Pſalms <hi>is an innocent Omiſſion;</hi> which (he pleads) was ſpoken
+in excuſe of the Parochial Aſſemblies, and not of the Diſſenters
+(as the Rector miſtakes) <hi>they do read the Titles.</hi> But
+the matter is not yet mended: His words are<note n="*" place="margin">Farther Vind. <hi>p.</hi> 53.</note>,
+<q>Now ſince the <hi>Pſalms</hi> are read not ſung
+in our Parochial Churches, the Titles which are Part of the
+Scripture ought not to be expung'd out of the Reading
+<hi>Pſalter</hi>—They may and <hi>ought</hi> to be read as part of the Word
+<pb n="10" facs="tcp:30148:6"/>
+of God and therefore ſhould not be left out of the Reading
+<hi>Pſalms.</hi> But this is not the Controverſy between me and the
+Rector:</q> The not reading of them is an innocent Omiſſion.
+In ſhort thus, the Titles <hi>ought</hi> to be read in Parochial Aſſem<g ref="char:EOLhyphen"/>blies
+becauſe the <hi>Pſalms</hi> are read there and not ſung, but yet
+the not reading them is an <hi>innocent</hi> Omiſſion. Is not this rare
+ſtuff? That any thing which <hi>ought</hi> to be done can be <hi>innocently</hi>
+left undone, to ſpeak ſoftly, is a ſtrange Paradox beyond my
+reach to comprehend. I'll not call it <hi>vile, impious and profane:</hi>
+But I cannot Swallow it. At this Rate we may e'en fling a
+way our Bibles, renounce all Religion and Morality. As for
+the Diſſenters reading the Titles, I would ask how often, and
+by what Orders. There is no direction for it in the <hi>Reformati<g ref="char:EOLhyphen"/>on
+of the Liturgy</hi> where one ought to expect it. Beſides, I
+have been frequently at Presbyterian Aſſemblies, where not ſo
+much as the <hi>Pſalms</hi> themſelves were read, and near a thouſand
+times (I believe) where, though the <hi>Pſalms</hi> were now and
+then read, yet the Titles were not. Innocent Omiſſion! In
+ſhort the Diſſenters, if one may gueſs at their Principles by
+their Practice, do not take themſelves abſolutely oblig'd to read
+the Scripture in their ſtated Aſſemblies, but will omit this Ce<g ref="char:EOLhyphen"/>remony
+when ever they pleaſe to make room for their own
+Sermons and Lecturings, which juſtle out the Word of God.
+And the People Love to have it ſo: They complain not, if
+Reading the Word be paſs'd by and neglected: But if there
+be no Sermon, what outcries will they make, as if they were
+ſtarv'd for lack of Bread? And again, when the Word of God
+is read, they ſit like ſo many dull and lifeleſs Images till the Mi<g ref="char:EOLhyphen"/>niſter
+begins his Harangue: Then they rouſe, and liſten with
+wonderful attention, ſeeming to be unwilling one Word of his
+Mouth ſhou'd drop by the way unobſerv'd. Now is it fit
+theſe Men ſhould reproach us for reading the Apocrypha now
+and then, or omitting the Titles of the <hi>Pſalms?</hi> It were to be
+wiſh'd Men would ſee their own Faults and amend them in
+ſtead of quarrelling at our innocent Omiſſions and Appointments.</p>
+            <p>
+               <pb n="11" facs="tcp:30148:6"/>
+As to Mr. <hi>Baxter</hi>'s and the <hi>Homily</hi>'s leaving out <hi>Theſe</hi> in their
+citation of <hi>Acts</hi> 15. 28, and (as Mr. <hi>O.</hi> argues) their being
+equally concern'd in the Accuſation, ſo that either both are, or
+neither of them ought to be acquitted, I will now in the laſt
+place ſhew the contrary, and ſo conclude.</p>
+            <p>Mr. <hi>Baxter</hi>'s buſineſs in the <hi>Petition for Peace</hi> was in general
+to prove the unlawfulneſs of impoſing any but neceſſary things
+in Religious Worſhip, which he pretended to make good from
+<hi>Act.</hi> 15. 28. quoting it thus—<hi>It ſeemed good to the Apoſtles and Elders
+to lay upon them no greater burden than neceſſary things,</hi> and omit<g ref="char:EOLhyphen"/>ing
+<hi>Theſe.</hi> Now this Word had it not been ſuppreſs'd would
+have put the Reader upon recollecting or ſearching what thoſe
+neceſſary things were in particular; indeed it would have ob<g ref="char:EOLhyphen"/>lig'd
+Mr. <hi>Baxter</hi> himſelf in Reaſon to have mention'd them all.
+But that would have quite ſpoil'd his Argument. For every
+one then would have perceiv'd at firſt ſight, that the Text
+ſpeaks only of matters belonging to civil Converſation. But
+expreſſing the Paſſage thus, <hi>neceſſary things</hi> indefinitely, the
+Reader would be apt to run away with the Bait, and take it
+for granted, that the Apoſtles appointed nothing in Religious
+Worſhip, but neceſſary things, which is not nor can be prov'd
+from this Text. In ſhort, Mr. <hi>Baxter</hi>'s Argument (which in<g ref="char:EOLhyphen"/>deed
+is none at all) appear'd plauſible by the Omiſſion of <hi>Theſe,</hi>
+and he is juſtly ſuſpected to have deſign'd to inſnare his Rea<g ref="char:EOLhyphen"/>der.
+I know an ingenious Perſon who was thus deceiv'd by
+him.</p>
+            <p>But the Author of the <hi>Homilie</hi> cannot juſtly be tax'd with a<g ref="char:EOLhyphen"/>ny
+ſuch fallacious Deſign. He was urging the particular Duty
+of abſtaining from Fornication as neceſſary, and prov'd it from
+the Text, which <hi>among other</hi> neceſſary things forbids Fornicati<g ref="char:EOLhyphen"/>on.
+His Argument is neither better nor worſe by his omitting
+<hi>Theſe.</hi> Nay, the Turn of the whole Period, as he contriv'd
+it, would not admit <hi>Theſe</hi> to be taken in. It would have been
+Non-ſenſe to ſay—<hi>Theſe neceſſary things: Among others they willed
+them:</hi> This latter Word <hi>Other</hi> in a New diſtinct Sentence re<g ref="char:EOLhyphen"/>quir'd,
+that <hi>Theſe</hi> ſhould be left out in the former. But enough
+and too much of this trivial Point.</p>
+            <p>
+               <pb n="12" facs="tcp:30148:7"/>
+Here then I put an end unto my Notes on Mr. <hi>Owens</hi>'s <hi>Anſwer.</hi>
+If you or any Body elſe ſhould think it worth while ſtrictly
+to examine all that has paſs'd between him and me
+throughout this whole Controverſy, I again declare I muſt
+ſend you to our former Writings, being loath to give you or
+my ſelf any unneceſſary Trouble. And I am pretty well aſſur'd
+the generality of Readers would not like being teaz'd with
+the Repetition of the ſame things over again: I am ſenſible
+it would be to very little purpoſe. I remain then,</p>
+            <closer>
+               <signed>Your Affect. and very
+Humble Servant.
+<hi>T. G.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb n="13" facs="tcp:30148:7"/>
+            <head>THE
+PUBLISHER
+TO THE
+READER.</head>
+            <p>EVery Body almoſt has taken notice of the ſtrange Con<g ref="char:EOLhyphen"/>fuſion
+that is in the <hi>1 Sam.</hi> 16, 17, 18, Chapters.
+There came to my hands very lately the following Eſſay,
+which pretends to reſtore them to their Natural Order,
+and gives a Conjecture how poſſibly this Confuſion might
+have happen'd. In the Abſence of the Author of the fore<g ref="char:EOLhyphen"/>going
+Letter, there being ſo near an Agreement in the Ar<g ref="char:EOLhyphen"/>gument,
+I have made bold to add this as an Appendix, the
+rather becauſe the ſaid Author ſeems to believe, the diffi<g ref="char:EOLhyphen"/>culties,
+wherewith theſe Chapters are perplext, to be in<g ref="char:EOLhyphen"/>ſuperable
+and without Remedy.</p>
+            <p>That the Courſe of the Hiſtory of <hi>David,</hi> in <hi>1 Sam. 16, 17,
+18,</hi> Chapters is diſorder'd, every one ſees, and the <hi>Septuagint</hi>
+for that Reaſon (as I fanſie) in their Verſion, or ſome Tran<g ref="char:EOLhyphen"/>ſcriber,
+has intirely expung'd Twenty four Verſes out of
+the 17. Chapter, and Eight out of the 18. by which means
+they made the ſtory very eaſy and intelligible, and diſcharg'd
+it of all the difficulties, which appear in our Bibles at this
+Day. But 'tis very hard me thinks to imagine how Four and
+twenty, and Eight Verſes, could have been interpolated in
+the ſacred Text, ſeeing they contain a piece of the Hiſto<g ref="char:EOLhyphen"/>ry,
+which no where elſe is ſo much as hinted at. I there<g ref="char:EOLhyphen"/>fore
+chuſe of the two, to believe rather that the parts of the
+Narrative have been tranſpos'd, which therefore I am
+<pb n="14" facs="tcp:30148:8"/>
+endeavouring to reſtore unto their right Order. But firſt
+let us take a view of the Diſorders in theſe three Chapters,
+as we now have them in the Hebrew Text and our Engliſh
+Verſion.</p>
+            <p>1. In the 17th Chapter we have an Account of <hi>David</hi>'s Fa<g ref="char:EOLhyphen"/>mily
+and Pedegree, which is to be found immediately before
+in the 16th Chapter, and without any neceſſity repeated
+here. Whereas on the contrary, if we invert the Order of
+theſe two Chapters, the Repetition of them is neceſſary,
+as any one that conſiders will confeſs.</p>
+            <p>2. In the 17th Chapter <hi>David</hi> is employ'd in the meaneſt
+Offices by his Father <hi>Jeſſe, viz.</hi> tending the Sheep; and
+Snub'd by his Eldeſt Brother <hi>Eliab,</hi> as too Ambitious and
+Aſpiring, though Chapter 16. he had been in the pre<g ref="char:EOLhyphen"/>ſence
+of his Father and Brethren Anointed <hi>Saul</hi>'s Succeſſor,
+and the deſign'd King of <hi>Iſrael.</hi> Neither of which I am per<g ref="char:EOLhyphen"/>ſuaded
+ought nor would have been done after <hi>David</hi>'s
+Anointing.</p>
+            <p>3. In Chapter 17. <hi>Saul</hi> calls <hi>David</hi> Youth, unfit to enter
+the Liſts with the Giant, not knowing what it was to Fight;
+and eſpecially 'tis obſervable, that the King again after the
+Fight, calls him Young Man and Stripling, tho' Chapter 16.
+<hi>David</hi> had ſometime before been Anointed King, and ad<g ref="char:EOLhyphen"/>vanc'd
+to be <hi>Saul</hi>'s Armour-Bearer, and was then known
+to be a <hi>Man of War, and prudent in Matters.</hi> All which
+ſuppoſe that he was beyond a Stripling, in the 16th Chap<g ref="char:EOLhyphen"/>ter,
+and much more in the 17th.</p>
+            <p>4. In the 17th Chapter <hi>Saul</hi> ſeems not to have known
+<hi>David</hi>'s Pedegree and Family, and therefore enquires af<g ref="char:EOLhyphen"/>ter
+it: Probably he knew not his Name, for he never calls
+him <hi>David,</hi> but only Youth, Stripling and Young Man.
+Whereas all this was well known unto <hi>Saul</hi> before, Chap<g ref="char:EOLhyphen"/>ter
+16.</p>
+            <p>
+               <pb n="15" facs="tcp:30148:8"/>
+5. In the 18th Chapter, the 6, 7, &amp; 8. Verſes are manifeſt<g ref="char:EOLhyphen"/>ly
+broken off from the 17th Chapter, which they ought
+immediately to follow, but are interrupted with Five
+Verſ<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, the laſt whereof acquaints us, that <hi>Saul</hi> employ'd
+<hi>David</hi> in buſineſs of Importance, ſet him over the Men of
+War: That <hi>David</hi> behav'd himſelf Wiſely, and got the
+Favour of the People and of the Courtiers, which muſt
+needs have happen'd after <hi>Saul</hi>'s Triumphant Return from
+the ſlaughter of the <hi>Philiſtines,</hi> which nevertheleſs we ſee
+is poſtpon'd to the 6, 7, &amp; 8. Verſes. Theſe things being ſo
+I ſhould think yet, with Submiſſion, that the Courſe of
+the ſtory ſhould lie in the following Order, whereby all the
+foremention'd inconvenience are avoided.</p>
+            <p>I would then immediately after the 15th Chapter read
+the 17th, (all but the 15th Verſe,) and the 6, 7, &amp; 8. Verſes
+of the 18th Chapter, which make up a complete account
+of <hi>Saul</hi>'s Expedition againſt the <hi>Philiſtines</hi> that Year, and
+his Triumphant Return home. But whereas in the 8th
+Verſe of that 18th Chapter it is ſaid, that <hi>Saul</hi> was diſ<g ref="char:EOLhyphen"/>pleas'd,
+becauſe the People aſcrib'd more unto <hi>David,</hi> than
+unto the King, and ſays he, <hi>What can</hi> David <hi>have more, but the
+Kingdom?</hi> Therefore in the next place, I would read
+Verſe the 15th of the 17th Chapter—<hi>But David</hi> (obſer<g ref="char:EOLhyphen"/>ving
+that <hi>Saul</hi> was angry, and himſelf in all likelihood, de<g ref="char:EOLhyphen"/>feated
+of the Promiſe of <hi>Saul</hi>'s Daughter) <hi>went and return'd
+from</hi> Saul <hi>to feed his Fathers Sheep at</hi> Bethlehem. Now God
+among other Reaſons, to puniſh <hi>Saul</hi>'s breach of Promiſe
+unto <hi>David,</hi> and to recompence <hi>David</hi> another way, ſent
+<hi>Samuel</hi> to Anoint him <hi>Saul</hi>'s Succeſſor: I would in the
+next place, then read the 16th Chapter intirely to the end.
+The latter part whereof is an Account how <hi>David</hi> return'd
+to Court, to Play upon his Harp and thereby to refreſh <hi>Saul,</hi>
+when the Evil Spirit vexed him, as alſo how he was made
+<hi>Saul</hi>'s Armour-Bearer. All this happen'd unto <hi>David,</hi> be<g ref="char:EOLhyphen"/>cauſe
+it was then well known, that <hi>David</hi> was a Skilful
+Player on the Harp (we may ſuppoſe he had in the Camp
+<pb n="16" facs="tcp:30148:9"/>
+frequently diverted the Souldiers with his Inſtrument) and
+alſo that he was a Valiant Man, a Man of War, and pru<g ref="char:EOLhyphen"/>dent
+in ſuch matters, (for he had given proof of his Courage
+and Conduct before in the War with the <hi>Philiſtines)</hi> When
+<hi>David</hi> with his Harp, Chapter 16. 23. had refreſhed <hi>Saul</hi>
+and the Evil Spirit was departed from him, I cannot but
+think the King enter'd into ſome Diſcourſe with him, there<g ref="char:EOLhyphen"/>fore
+I would here go to the 18th Chapter and firſt Verſe, to
+the end of the fifth—<hi>And it came to paſs when he had made an
+end of ſpeaking unto</hi> Saul, <hi>&amp;c.</hi>—And <hi>David went out whither ſo<g ref="char:EOLhyphen"/>ever</hi>
+Saul <hi>ſent him, and behaved himſelf wiſely: And</hi> Saul <hi>ſet
+him over the Men of War, and he was accepted in the ſight of all
+the People and alſo in the ſight of</hi> Saul<hi>'s Servants.</hi> Laſtly,
+hence I skip to the 9th Verſe—<hi>And Saul</hi> (being jealous of
+<hi>David</hi> who was thus become popular and perhaps having
+ſome ſecret Intelligence by this time, that he had been
+Anointed to ſucceed in the Throne) <hi>Eyed</hi> David <hi>from that
+day and forward.</hi> This Jealouſie brought again the Evil Spirit
+upon <hi>Saul,</hi> ſo that in the very next the 10th Verſe 'tis ſaid
+—<hi>And it came to paſs on the Morrow</hi> (of that day when <hi>Saul</hi>
+began firſt to Eye <hi>David) that the Evil Spirit from God
+came upon</hi> Saul, <hi>&amp;c.</hi> The ſtory afterward is regular.</p>
+            <p>It will (I foreſee well enough) be askt how all this diſ<g ref="char:EOLhyphen"/>order
+could happen in the ſacred Hiſtory? Whereunto I
+Anſwer, that the matter of Fact ſeems to me ſo evident
+both from the perplexity of the Narrative, as it lies at pre<g ref="char:EOLhyphen"/>ſent
+in our Bible, and from that perfect Agreement which
+muſt be confeſt to be in the parts of the ſtory thus put toge<g ref="char:EOLhyphen"/>ther,
+that I reekon this not a ſufficient Objection. Be<g ref="char:EOLhyphen"/>ſides,
+if I may be allow'd to account for this, as the Lear<g ref="char:EOLhyphen"/>ned
+do for other ſmaller Corruptions, I need not deſpair of
+gueſſing at a probable way how this might come to paſs.</p>
+            <p>Thus. The two greater Sections, which make up the
+16th and 17th Chapters as they now ſtand in our Bibles,
+might have been written upon two different Rolls or looſe
+Parchments, &amp; ſo eaſily miſplac'd or miſtaken by the Copier,
+<pb n="17" facs="tcp:30148:9"/>
+taking up one for the other. The Reader afterwards ob<g ref="char:EOLhyphen"/>ſerving
+<hi>David,</hi> who Chapter 16th was enter'd into <hi>Saul</hi>'s
+Service, was now chap. 17. (no Body knows how, for no
+account is given of it) at home again with his Father at
+<hi>Bethlehem,</hi> noted in the Margin from a Neighbouring place
+—<hi>But</hi> David <hi>went and returned from</hi> Saul <hi>to feed his Father's
+Sheep at</hi> Bethlehem, which by degrees ſlipt from the Mar<g ref="char:EOLhyphen"/>gent
+into the Text here. Again, a Tranſcriber obſerving
+there was no expreſs mention of any Diſcourſe between
+<hi>Saul</hi> and <hi>David,</hi> except that in Chapter 17. 32. &amp; Verſe 58.
+concluded, that the five firſt Verſes of the 18th Chap. ſhould
+be plac'd immediately after the 17th Chapter, as they now
+ſtand in our Bibles. Such kind of Accounts as theſe Cri<g ref="char:EOLhyphen"/>ticks
+are wont to give of other miſtakes, why may not this
+that I have now offer'd paſs as probable, at leaſt Poſſible. I
+cannot admit of the Prolepſis, which the inſpir'd Pen-Men
+of the Hiſtory would never have fallen into after ſuch a
+groſs manner as renders the whole ſtory extremely confus'd,
+and impoſſible to be clearly underſtood. In a word, the
+Thread of the Hiſtory is ſo often broken, that it ſeem'd
+neceſſary to reſtore the parts to their Natural Order, where<g ref="char:EOLhyphen"/>in
+I do believe they were firſt written. But ſuppoſing the
+Sacred Hiſtorian fell ſo often into the Prolepſis, yet it may be
+be granted (I hope) that we have gain'd thus much by
+this Attempt, that the genuine Order of time, when things
+ſucceſſively happen'd, is here diſcover'd and render'd eaſy
+to be underſtood, which I am Principally concern'd for.
+But as for the explanations of ſeveral Difficulties in this
+Hiſtory, which the Criticks in the Synopſis, who do not in<g ref="char:EOLhyphen"/>ſiſt
+upon the Prolepſis have furniſhed us with, I ſhall in the
+laſt place ſhew, that they are weak, forc'd, and have no pro<g ref="char:EOLhyphen"/>bability
+at all in them.</p>
+            <p>It is ſaid upon Chapter 17. 55, 58. that <hi>David</hi> was not
+then ſufficiently known unto <hi>Saul,</hi> becauſe he frequently
+went from Court home to feed his Father's Sheep: There<g ref="char:EOLhyphen"/>fore
+the King enquir'd of him and of his Family.</p>
+            <p>
+               <pb n="18" facs="tcp:30148:10"/>
+               <hi>A.</hi> It is incredible <hi>Saul</hi> ſhould ſuffer his Armour-Bearer
+to retire ſo often to feed Sheep, or frequently diſpenſe with
+<hi>his</hi> Abſence, who was to be conſtantly at hand to Play upon
+the Harp, when ever the Evil Spirit came upon <hi>Saul.</hi>
+Beſides, if <hi>David</hi> frequently went home, he frequently re<g ref="char:EOLhyphen"/>turn'd
+unto Court, and ſo was better known unto the King.</p>
+            <p>It is ſaid, <hi>Saul</hi> was taken up with the weighty Affairs of
+the Kingdom, ſo that altho' he formerly knew <hi>David</hi> and
+his Family, <hi>ch.</hi> 16. 18. yet he had forgot him, <hi>ch.</hi> 17. eſpe<g ref="char:EOLhyphen"/>cially
+being often troubled with the Evil Spirit.</p>
+            <p>
+               <hi>A. Saul</hi> was not at that time troubled with the Evil
+Spirit, it is manifeſt. If he had been often troubled with
+it, yet he loſt not his Memory and Underſtanding thereby,
+<hi>ch. 18. 10, 11. ch. 19. 9, 10, 11. David</hi> at the Combat with
+<hi>Goliah</hi> was but Stripling twenty years old haply, for he was
+but 30 at <hi>Saul</hi>'s Death, <hi>2 Sam.</hi> 5. 4. ſo that there could not
+be ſufficient time between <hi>Saul</hi>'s making him his Armour-Bearer
+and the Combat, for <hi>Saul</hi> to have forgot <hi>David.</hi>
+In a word, Princes in their Conſulations about the Affairs
+of State, are wont to confer with their Principal Officers
+and Miniſters, of whom doubtleſs <hi>David</hi> the Armour-Bearer
+was one, at leaſt had frequent Occaſions to attend
+his Maſter, and laſtly, being often admitted into <hi>Saul</hi>'s
+Preſence to Play upon the Harp, it is Morally impoſſible
+<hi>Saul</hi> could in a little time forget him and his Father's Houſe.</p>
+            <p>It is ſaid Princes are not wont to know their Servants,
+eſpecially who have Merited at their Hands; therefore
+<hi>Saul</hi> made himſelf ſtrange unto <hi>David, ch.</hi> 17. 55, 58. tho'
+otherwiſe he could not chuſe but know him.</p>
+            <p>
+               <hi>A. Saul</hi> had no reaſon to diſſemble his knowledge of
+<hi>David. David</hi> had oblig'd him by refreſhing him with his
+Harp, and ſcaring away the Evil Spirit. But then <hi>Saul</hi> had
+rewarded him with the Honourable Office of Armour-Bearer.
+That which make Princes to forget, or to pretend
+to forget their Subjects is, when they cannot, or will not
+recompenſe them. But this was not the caſe. Again <hi>Da<g ref="char:EOLhyphen"/>vid</hi>
+               <pb n="19" facs="tcp:30148:10"/>
+had ſlain <hi>Goliah,</hi> and occaſion'd thereby the total defeat
+and overthrow of the <hi>Philiſtines;</hi> this was a noble and de<g ref="char:EOLhyphen"/>ſerving
+exploit. Right! But this was not the time, nor
+was it to any purpoſe at preſent to hide his former know<g ref="char:EOLhyphen"/>ledge
+of <hi>David;</hi> For all <hi>David</hi>'s pretence now unto a further
+reward of his Services, was his ſucceſsful Combate and
+ſlaughter of the Giant, and preſervation of the Armies of
+<hi>Iſrael</hi> thereby. As to the reward of this Action, it
+matter'd not whether <hi>Saul</hi> had or had not been acquainted
+with <hi>David</hi> formerly: Still the reward was due, though
+<hi>Saul</hi> had never before ſeen or known him.</p>
+            <p>It is ſaid, <hi>David</hi>'s Face was changed and his Beard grown,
+ſo that <hi>Saul</hi> knew him not again.</p>
+            <p>
+               <hi>A.</hi> How could <hi>David</hi>'s Beard be grown, who was as
+yet but a Youth, a Stripling, and a Beardleſs Boy, <hi>ch.</hi> 17.</p>
+            <p>It is ſaid, he appear'd now before <hi>Saul</hi> like a Shepherd,
+and not in his Courtly Habit, ſo that <hi>Saul</hi> knew him not.</p>
+            <p>
+               <hi>A.</hi> 'Tis as eaſie to ſay, he appear'd at firſt, <hi>ch.</hi> 16. be<g ref="char:EOLhyphen"/>fore
+the King in his Shepherd's Garb, which <hi>Saul</hi> might
+eaſily know again.</p>
+            <p>It is finally ſaid that <hi>Saul</hi> only enquir'd after the Lineage
+of <hi>David;</hi> for he knew his Perſon well enough.</p>
+            <p>
+               <hi>A.</hi> If <hi>Saul</hi> knew and remember'd <hi>David</hi>'s Perſon, he
+could not have been ignorant of his Pedegree, Tribe and
+Family, which were well known unto <hi>Saul</hi> when he made
+him Armour-Bearer, <hi>ch.</hi> 16. 18, 19, 22.</p>
+            <p>To conclude, many Incongruities in this ſtory are not
+at all indeavour'd to be accounted for: Thoſe excuſes,
+wherewith ſome of 'em are palliated, ſeem ſo trivial, weak
+and ill grounded, that I am hereby farther and more firmly
+convinc'd that the order of the ſtory has been ſome way or
+other diſturb'd and ought ſome way or other to be rectify'd.
+Whether I have contributed any thing thereunto, I leave
+to the Judgment of other Men.</p>
+            <p>
+               <pb n="20" facs="tcp:30148:11" rendition="simple:additions"/>
+There are two or three Obſervables more in the Order
+of the ſtory, as 'tis found in our Bibles, which ought not to
+be forgot. <hi>David</hi> was Anointed, and then advanc'd to be
+<hi>Saul</hi>'s Armour-Bearer, <hi>ch.</hi> 16. God queſtionleſs deſigning
+hereby to make way for his ſucceeding <hi>Saul</hi> in the Throne.
+But <hi>David,</hi> tho' there had happen'd no diſguſt between him
+and the King, return'd to keep his Father's
+Sheep,<note place="margin">Ch. 17. 15.</note> and <hi>Jeſſe</hi> entertain'd him, which was
+(as much as in them lay) to defeat the Purpoſe of God, and
+expect another way than what God had appointed for his
+attaining the Crown.<note place="margin">Ch. 17.</note> It might alſo be ask'd,
+why did not the Armour-Bearer preſent him<g ref="char:EOLhyphen"/>self
+to his Maſter, make a tender of his Service according
+to his Office? Whence was it, that he needed to be intro<g ref="char:EOLhyphen"/>duc'd
+into the King's Preſence by ſome Courtier, and was
+receiv'd as a mere Stranger. With what Face could <hi>Eliab</hi>
+Challenge <hi>Saul</hi>'s Armour-Bearer with Pride and Naughti<g ref="char:EOLhyphen"/>neſs
+of Heart for attending his Maſter in the War. In a
+word, is it likely the King's Armour-Bearer ſhould appear
+in the Field with his Shepherd's Habit, <hi>ch.</hi> 17. As yet
+then he had been neither Anointed, nor taken into <hi>Saul</hi>'s Ser<g ref="char:EOLhyphen"/>vice,
+but was a mere Shepherd, and by Conſequence the
+17th Chapter ought to be before the 16th, at leaſt is before
+it in the Order of time, though the 16th by a bold Prolepſis
+was put firſt by the Hiſtorian.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:30148:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
